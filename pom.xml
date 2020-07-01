@@ -21,7 +21,7 @@
         <!-- mybatis版本号 -->
         <mybatis.version>3.3.0</mybatis.version>
         <!-- mysql版本号 -->
-        <mysql.version>8.0.11</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <!-- lombok版本号 -->
         <lombok.version>1.16.20</lombok.version>
     </properties>
